@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clone of booking.com
 
 
@@ -57,3 +58,7 @@ https://booking-come-1562.netlify.app
 ![booking2](https://user-images.githubusercontent.com/104014308/188279238-1efb8317-7d59-448b-8d28-201c3421dda9.JPG)
 
 
+=======
+# Booking.com
+Clone of the Booking.com
+>>>>>>> b5367338249bf2d9264c2b09f0ee0f305e845039
